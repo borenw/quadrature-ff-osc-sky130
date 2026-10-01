@@ -1,0 +1,4 @@
+results/work/
+*.raw
+*.out
+__pycache__/
